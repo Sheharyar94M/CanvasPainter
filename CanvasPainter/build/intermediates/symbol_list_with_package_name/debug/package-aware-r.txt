@@ -1,0 +1,10 @@
+com.devscion.canvaspainter
+drawable color_wheel
+drawable ic_baseline_adjust_24
+drawable ic_baseline_brush_24
+drawable ic_baseline_clear_all_24
+drawable ic_baseline_done_24
+drawable ic_baseline_save_24
+drawable ic_round_redo_24
+drawable ic_round_undo_24
+string invalid_interface
